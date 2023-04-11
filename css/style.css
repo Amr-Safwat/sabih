@@ -14,6 +14,7 @@ h1 {
 	text-align: center;
 	margin: 0;
 	padding: 15px;
+	font-weight: bold;
 }
 .num {
 	display: block;
@@ -21,6 +22,7 @@ h1 {
 	width: fit-content;
 	font-size: 70px;
 	font-weight: bold;
+	color: white;
 }
 .text {
 	display: none;
@@ -41,7 +43,7 @@ cursor: pointer;
 	content: '';
 	background-color: black;
 	position: absolute;
-	top: 330px;
+	top: 320px;
 	left: 45px;
 	width: 285px;
 	height: 57px;
